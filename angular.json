@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-kendo-app"
+    }
+  },
+  "defaultProject": "my-kendo-app",
+  "cli": {
+    "analytics": "e1c32ef5-3c12-495e-a476-7b0f853a5a95"
+  }
 }
